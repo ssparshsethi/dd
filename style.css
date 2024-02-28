@@ -1,0 +1,16 @@
+body{
+    background-image: URL(https://i.ytimg.com/vi/EBz7uFQsK2Y/maxresdefault.jpg);
+}
+span{
+    font-size: 15px;
+}
+.copy_right_footer{
+    position:fixed;
+    color:white;
+    bottom:0%;
+    width:100%;
+    background-color:grey;
+    line-height:3;
+    text-align: center;
+
+}   
